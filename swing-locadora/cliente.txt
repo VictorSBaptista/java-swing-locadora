@@ -1,0 +1,2 @@
+1;victor;1;rua;fernando pessoa;1412;dsada;null;curitiba;Paraná;12312-312;312.312.123-12;32.132.131-2;12/31/2312;M;32;(23) 1231-2312;(21) 31231-2312;victor@gmail
+123;asdas;123;asdasd;asdas;123;adas;null;sadasd;Amapá;31231-312;312.312.331-23;13.213.123-1;12/31/2312;M;12312312;(23) 2131-2312;(13) 12312-3123;adasdas

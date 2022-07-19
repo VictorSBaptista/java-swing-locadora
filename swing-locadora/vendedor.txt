@@ -1,0 +1,2 @@
+3;Victor;TI;Curitiba;Bahia;M;27;1600.0
+1;vendedor;area;cid;Amapá;F;23;312.89

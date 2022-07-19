@@ -1,0 +1,4 @@
+1;The Shining;5.0;true;false;3.5;Outro;
+1;Avatar;4.0;false;false;0.0;Ação;Ficção;
+123;asdsa;3432.0;false;true;312.0;nullAção;Ficção;Comédia;Outro;
+31;asdasd;534543.0;true;false;312312.0;Ação;Ficção;Terror;Comédia;
